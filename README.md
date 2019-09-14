@@ -7,7 +7,7 @@
 
 A função de custo foi definida por meio da diferença no valor predito na hipótese compadara ao valor alvo. Essa diferença é elevada ao quadrado  e calculada para cada saída, em seguida somada e dividida por 2, de modo a fornecer o erro médio ao quadrado.
 
-$$ J(\theta) = \frac{1}{2}\sum_{i=0}^{m}(h_{\theta}(x^{(i)})-y^{(i)})^{2}
+![equation] J(\theta) = \frac{1}{2}\sum_{i=0}^{m}(h_{\theta}(x^{(i)})-y^{(i)})^{2}
 
 
 
