@@ -1,6 +1,6 @@
 ## a. Como foi a definição da sua estratégia de modelagem?
 
-Considerando a característica dos dados e da análise (uma variável "quality" influenciada por diversas outras variáveis), iniciei identificando a correlação entre as variáveis e a qualidade do vinho. Ao identificar a variável "alcohol" como de maior influência, utilizei a Regressão Linear. Posteriormente testei diversos modelos de machine learning para uma análise multivariada, pois outras variáveis além de "alcohol" influenciam na qualidade do vinho. Foi verificada a acurácia de cada modelo, de modo a oferecer parâmetros para a escolha do modelo final. O modelo Random Forest de mostrou o melhor para os dados analisados.
+Considerando a característica dos dados e da análise (uma variável "quality" influenciada por diversas outras variáveis), iniciei identificando a correlação entre as variáveis e a qualidade do vinho. Ao identificar a variável "alcohol" como de maior influência, utilizei a Regressão Linear para analisar essa variável específica. Posteriormente testei diversos modelos de machine learning para uma análise multivariada, pois outras variáveis além de "alcohol" influenciam na qualidade do vinho. Foi verificada a acurácia de cada modelo, de modo a oferecer parâmetros para a escolha do modelo final. O modelo Random Forest de mostrou o melhor para os dados analisados.
 
 
 ## b. Como foi definida a função de custo utilizada?
